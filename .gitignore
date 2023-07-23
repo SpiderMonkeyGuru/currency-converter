@@ -1,0 +1,11 @@
+# IDE/Code editor workspace
+.idea/
+
+# environment variables
+.env
+
+# Celery
+*/celerybeat-schedule
+
+# static files
+*/static/
